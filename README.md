@@ -9,7 +9,7 @@ Formally known as Daksh, my friends call me Ducky. I am 14 years old tech enthus
 ## More Info
 * Python is currently my favourite language to code.
 * I love UNIX systems and am currently using Pop!_OS 21.10.
-* Java aint a language I get hyped about but i was forced to learn at in school and it just sinked in, ig..
+* Java aint a language I get hyped about but i was forced to learn at in school. 
 * Tinkering with microcontrollers is my go to on a rainy day :P
 * I love music and am almost always listening to it.
 * I also maintain a AWS server which is fun.
@@ -32,3 +32,7 @@ Formally known as Daksh, my friends call me Ducky. I am 14 years old tech enthus
 
 ![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 ![Adafruit](https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white)
+
+<!-- Resource -->
+https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white'
+https://open.spotify.com/user/fnwptjr7y693b5rsh0xcj933r?si=e3d970279f9a4c05
