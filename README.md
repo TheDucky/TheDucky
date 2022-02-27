@@ -33,6 +33,17 @@ Formally known as Daksh, my friends call me Ducky. I am 14 years old tech enthus
 ![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 ![Adafruit](https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white)
 
+## My links 
+
+### [My Spotify] | [My Reddit] 
+### ![Spotify] | ![Reddit]
+
 <!-- Resource -->
-https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white'
-https://open.spotify.com/user/fnwptjr7y693b5rsh0xcj933r?si=e3d970279f9a4c05
+[Spotify]:https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
+
+[My Spotify]:https://open.spotify.com/user/fnwptjr7y693b5rsh0xcj933r?si=e3d970279f9a4c05
+
+[My Reddit]:https://www.reddit.com/user/mouZe512
+
+[Reddit]:https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white
+
