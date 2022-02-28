@@ -4,7 +4,7 @@
 
 # Hello Everyone! <img width=35px src="wave.gif"></h1>
 
-Formally known as Daksh, my friends call me Ducky. I am 14 years old tech enthusiast form India.
+Formally known as Daksh, my friends call me Ducky. I am 14 years old tech enthusiast from India.
 
 ## More Info
 * Python is currently my favourite language to code.
