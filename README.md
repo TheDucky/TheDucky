@@ -13,7 +13,7 @@ Formally known as Daksh, my friends call me Ducky. I am 14 years old tech enthus
 * Tinkering with microcontrollers is my goto on a rainy day :P
 * I love music and am almost always listening to it.
 * I also maintain a AWS server which is fun.
-* I love a good dark theme. Dont every show me a light theme, ever, please.
+* I love a good dark theme. Dont every show me a light theme, ever, please!
 
 ## Languages 
 
