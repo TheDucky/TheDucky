@@ -9,8 +9,8 @@ Formally known as Daksh, my friends call me Ducky. I am 14 years old tech enthus
 ## More Info
 * Python is currently my favourite language to code.
 * I love UNIX systems and am currently using Pop!_OS 21.10.
-* Java aint a language I get hyped about but i was forced to learn at school. 
-* Tinkering with microcontrollers is my go to on a rainy day :P
+* Java aint a language I get hyped about but i was forced to learn it at school. 
+* Tinkering with microcontrollers is my goto on a rainy day :P
 * I love music and am almost always listening to it.
 * I also maintain a AWS server which is fun.
 
