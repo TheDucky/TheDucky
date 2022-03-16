@@ -40,5 +40,14 @@ Formally known as Daksh, my friends call me Ducky. I am 14 years old tech enthus
          <img alt="Qries" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
         
 <a href="https://www.reddit.com/user/mouZe512" target="_blank">
-         <img alt="Qries" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>        
+         <img alt="Qries" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>   
 
+<a href="https://theducky.github.io/jSnip-API/" target="_blank">
+         <img alt="Qries" src="https://img.shields.io/static/v1?label=jSnip-API&message=Check%20it%20Out!&color=orange?style=for-the-badge&logo=appveyor"></a>
+         
+<a href="https://theducky.github.io/HelloWorld-API/" target="_blank">
+         <img alt="Qries" src="https://img.shields.io/static/v1?label=HelloWorld!-API&message=Check%20it%20Out!&color=orange?style=for-the-badge&logo=appveyor"></a>
+         
+<a href="https://theducky.github.io/Html-Basics/" target="_blank">
+         <img alt="Qries" src="https://img.shields.io/static/v1?label=HTML basics&message=Check%20it%20Out!&color=orange?style=for-the-badge&logo=appveyor"></a>
+         
