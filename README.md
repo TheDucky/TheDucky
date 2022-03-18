@@ -42,6 +42,8 @@ Formally known as Daksh, my friends call me Ducky. I am 14 years old tech enthus
 <a href="https://www.reddit.com/user/mouZe512" target="_blank">
          <img alt="Qries" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>   
 
+<hr>
+         
 <a href="https://theducky.github.io/jSnip-API/" target="_blank">
          <img alt="Qries" src="https://img.shields.io/static/v1?label=jSnip-API&message=Check%20it%20Out!&color=orange?style=for-the-badge&logo=appveyor"></a>
          
