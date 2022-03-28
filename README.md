@@ -1,6 +1,7 @@
-<h1 align=center><img src="https://readme-typing-svg.herokuapp.com/?font=jetbrains+mono&color=%bb42dqw&size=22&center=true&vCenter=true&lines=echo%20%27Hello%20World!%27;I%20am%20Daksh...;Linux%2C+Python%2C+Java%2C+Bash..." alt="Hello World"></h1>
+<h1 align=center><img src="https://readme-typing-svg.herokuapp.com/?font=jetbrains+mono&color=%8FBCBB&size=22&center=true&vCenter=true&lines=echo%20%27Hello%20World!%27;I%20am%20Daksh...;Linux%2C+Python%2C+Java%2C+Bash..." alt="Hello World"></h1>
 
-<img src="https://github-readme-stats.vercel.app/api?username=TheDucky&show_icons=true&theme=discord_old_blurple" alt="My GitHub stats" width=420px align=right>
+<hr>
+<img src="https://github-readme-stats.vercel.app/api?username=TheDucky&show_icons=true&theme=nord" alt="My GitHub stats" width=420px align=right>
 
 # Hello Everyone! <img width=35px src="wave.gif"></h1>
 
@@ -18,7 +19,7 @@ Formally known as Daksh, my friends call me Ducky. I am 14 years old tech enthus
 
 ## Languages 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDucky&layout=compact&theme=discord_old_blurple&langs_count=12" alt="Most used Languages" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDucky&layout=compact&theme=nord&langs_count=12" alt="Most used Languages" align="left">
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -34,6 +35,19 @@ Formally known as Daksh, my friends call me Ducky. I am 14 years old tech enthus
 
 ![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 ![Adafruit](https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white) <br/> <br/> 
+
+## Worth your while
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TheDucky&repo=VEXI&theme=nord" alt="workingOn1" align='left'>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TheDucky&repo=JoeBean&theme=nord" alt="workingOn2">
+<br>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TheDucky&repo=jSnip-API&theme=nord" alt="workingOn3" align='left'>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TheDucky&repo=TheDucky&theme=nord" alt="workingOn4">
+<br>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TheDucky&repo=java-practise-form&theme=nord" alt="workingOn4" align='left'>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TheDucky&repo=dotfetch&theme=nord" alt="workingOn4">
 
 ## My links 
 
