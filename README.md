@@ -36,18 +36,11 @@ Formally known as Daksh, my friends call me Ducky. I am 14 years old tech enthus
 ![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 ![Adafruit](https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white) <br/> <br/> 
 
-## Worth your while
+## Currently working on:
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheDucky&repo=VEXI&theme=nord" alt="workingOn1" align='left'>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheDucky&repo=JoeBean&theme=nord" alt="workingOn2">
-<br>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TheDucky&repo=jSnip-API&theme=nord" alt="workingOn3" align='left'>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TheDucky&repo=TheDucky&theme=nord" alt="workingOn4">
-<br>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TheDucky&repo=java-practise-form&theme=nord" alt="workingOn4" align='left'>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TheDucky&repo=dotfetch&theme=nord" alt="workingOn4">
+
 
 ## My links 
 
