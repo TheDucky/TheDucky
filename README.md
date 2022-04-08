@@ -14,6 +14,7 @@ Formally known as Daksh, my friends call me Ducky. I am 14 years old tech enthus
 * I love music and am almost always listening to it.
 * I also maintain a AWS server which is fun.
 * I love a good dark theme. Dont every show me a light theme, ever, please!
+* An avid redditor
 * Oh, forgot to mention, i LOVE typing :P (WPM:82, ACC;98% as of now.)
 
 ## Languages 
@@ -44,10 +45,7 @@ Formally known as Daksh, my friends call me Ducky. I am 14 years old tech enthus
 ## My links 
 
 <a href="https://open.spotify.com/user/fnwptjr7y693b5rsh0xcj933r?si=e3d970279f9a4c05" target="_blank">
-         <img alt="Qries" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-        
-<a href="https://www.reddit.com/user/mouZe512" target="_blank">
-         <img alt="Qries" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>   
+         <img alt="Qries" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>  
 
 <hr>
          
