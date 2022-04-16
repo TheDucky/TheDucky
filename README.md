@@ -1,4 +1,4 @@
-<h1 align=center><img src="https://readme-typing-svg.herokuapp.com/?font=jetbrains+mono&color=000097&size=22&center=true&vCenter=true&lines=echo%20%27Hello%20World!%27;I%20am%20Daksh...;Linux%2C+Bash%2C+Assembly.x86_64..;Python%2C+Java%2C+MARKDOWN...;" alt="Hello World"></h1>
+<h1 align=center><img src="https://readme-typing-svg.herokuapp.com/?font=jetbrains+mono&color=000097&size=22&center=true&vCenter=true&lines=echo%20%27Hello%20World!%27;I%20am%20Daksh...;Linux%2C+Bash%2C+x86%2CAssembly...;Python%2C+Java%2C+MARKDOWN...;" alt="Hello World"></h1>
 
 <img src="https://github-readme-stats.vercel.app/api?username=TheDucky&show_icons=true&theme=nord" alt="My GitHub stats" width=420px align=right>
 
@@ -8,7 +8,7 @@ Formally known as Daksh, my friends call me Ducky. I am 14 years old tech enthus
 
 ## More Info
 * Current favourite language: `Python`
-* Currently learning: `Assembly x86_64`
+* Currently learning: `x86 Assembly`
 * OS: `Pop!_OS`
 * Loves to type `(WPM:82, ACC;98% as of now.)`
 * Always listening to music!
