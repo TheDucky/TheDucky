@@ -1,4 +1,4 @@
-<h1 align=center><img src="https://readme-typing-svg.herokuapp.com/?font=jetbrains+mono&color=000097&size=22&center=true&vCenter=true&lines=echo%20%27Hello%20World!%27;I%20am%20Daksh...;Linux%2C+Python%2C+Java%2C+Bash..." alt="Hello World"></h1>
+<h1 align=center><img src="https://readme-typing-svg.herokuapp.com/?font=jetbrains+mono&color=000097&size=22&center=true&vCenter=true&lines=echo%20%27Hello%20World!%27;I%20am%20Daksh...;Linux%2C+Python%2C+Java%2C+Bash%2C+Assembly x86_64..." alt="Hello World"></h1>
 
 <img src="https://github-readme-stats.vercel.app/api?username=TheDucky&show_icons=true&theme=nord" alt="My GitHub stats" width=420px align=right>
 
@@ -7,14 +7,14 @@
 Formally known as Daksh, my friends call me Ducky. I am 14 years old tech enthusiast from India.
 
 ## More Info
-* Python is currently my favourite language to code.
-* I love UNIX systems and am currently using Pop!_OS 21.10.
-* Java aint a language I get hyped about but i was forced to learn it at school. 
-* Tinkering with microcontrollers is my goto on a rainy day :P
-* I love music and am almost always listening to it.
-* I also maintain a AWS server which is fun.
-* I love a good dark theme. Dont every show me a light theme, ever, please!
-* Oh, forgot to mention, i LOVE typing :P (WPM:82, ACC;98% as of now.)
+* Current favourite language: `Python`
+* Currently learning: `Assembly x86_64`
+* OS: `Pop!_OS`
+* Loves to type `(WPM:82, ACC;98% as of now.)`
+* Always listening to music!
+* I like dark themes (cant stand the light!)
+* YES, i like tinkering with microcontrollers!
+* I use discord!
 
 ## Languages 
 
