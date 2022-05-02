@@ -8,7 +8,7 @@ Formally known as Daksh, my friends call me Ducky. I am 14 years old tech enthus
 
 ## More Info
 * Current favourite language: `Python`
-* Currently learning: `x86 Assembly`
+* Currently learning: `C`
 * OS: `Pop!_OS`
 * Loves to type `(WPM:82, ACC;98% as of now.)`
 * Always listening to music!
