@@ -1,4 +1,4 @@
-<h1 align=center><img src="https://readme-typing-svg.herokuapp.com/?font=jetbrains+mono&color=000097&size=22&center=true&vCenter=true&lines=echo%20%27Hello%20World!%27;I%20am%20Daksh...;Linux%2C+Bash%2C+x86%20Assembly...;Python%2C+Java%2C+MARKDOWN...;" alt="Hello World"></h1>
+<h1 align=center><img src="https://readme-typing-svg.herokuapp.com/?font=jetbrains+mono&color=000097&size=22&center=true&vCenter=true&lines=echo%20%27Hello%20World!%27;This%20is%20Ducky's%20GitHub!;Linux%2C+Bash%2C+Python;Java%2C+Golang%2C+MD;;" alt="Hello World"></h1>
 
 <img src="https://github-readme-stats.vercel.app/api?username=TheDucky&show_icons=true&theme=nord" alt="My GitHub stats" width=420px align=right>
 
