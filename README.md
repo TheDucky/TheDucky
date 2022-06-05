@@ -2,19 +2,17 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=TheDucky&show_icons=true&theme=nord" alt="My GitHub stats" width=420px align=right>
 
-# Hello Everyone! <img width=35px src="wave.gif"></h1>
+# Hello Everyone!
 
 Formally known as Daksh, my friends call me Ducky. I am 14 years old tech enthusiast from India.
 
 ## More Info
 * Current favourite language: `Python`
-* Currently learning: `C`
+* Currently learning: `Golang`
 * OS: `Pop!_OS`
 * Loves to type `(WPM:82, ACC;98% as of now.)`
 * Always listening to music!
 * I like dark themes (cant stand the light!)
-* YES, i like tinkering with microcontrollers!
-* I use discord!
 
 ## Languages 
 
