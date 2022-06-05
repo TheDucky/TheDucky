@@ -2,7 +2,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=TheDucky&show_icons=true&theme=nord" alt="My GitHub stats" width=420px align=right>
 
-# Hello Everyone! <img src="wave.gif" width="35px">
+# Hello Everyone! <img src="wave.gif" width="35px"/>
 
 Formally known as Daksh, my friends call me Ducky. I am 14 years old tech enthusiast from India.
 
