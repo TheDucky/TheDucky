@@ -35,8 +35,7 @@ Formally known as Daksh, my friends call me Ducky. I am 14 years old tech enthus
 
 ## Currently working on:
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TheDucky&repo=VEXI&theme=nord" alt="workingOn1" align='left'>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TheDucky&repo=JoeBean&theme=nord" alt="workingOn2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TheDucky&repo=Learning-Golang&theme=nord" alt="workingOn2">
 
 
 ## My links 
