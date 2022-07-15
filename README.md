@@ -4,7 +4,7 @@
 
 # Hello Everyone!
 
-Formally known as Daksh, my friends call me Ducky. I am 14 years old tech enthusiast from India.
+Formally known as Daksh, my friends call me Ducky. I am 15 years old tech enthusiast from India.
 
 ## More Info
 * Current favourite language: `Python`
