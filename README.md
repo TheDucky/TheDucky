@@ -7,8 +7,8 @@
 Formally known as Daksh, my friends call me Ducky. I am 15 years old tech enthusiast from India.
 
 ## More Info
-* Current favourite language: `Python`
-* Currently learning: `Golang`
+* Current favourite language: `Java`
+* Currently learning: `Golang, C`
 * OS: `Pop!_OS`
 * Loves to type `(WPM:82, ACC;98% as of now.)`
 * Always listening to music!
