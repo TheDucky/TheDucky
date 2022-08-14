@@ -35,7 +35,7 @@ Formally known as Daksh, my friends call me Ducky. I am 15 years old tech enthus
 
 ## Currently working on:
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TheDucky&repo=Learning-Golang&theme=nord" alt="workingOn2">
+<img src="nothing">
 
 
 ## My links 
