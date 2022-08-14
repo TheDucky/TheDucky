@@ -8,7 +8,7 @@ Formally known as Daksh, my friends call me Ducky. I am 15 years old tech enthus
 
 ## More Info
 * Current favourite language: `Java`
-* Currently learning: `Golang, C`
+* Currently learning: `Nothing`
 * OS: `Pop!_OS`
 * Loves to type `(WPM:82, ACC;98% as of now.)`
 * Always listening to music!
@@ -16,7 +16,7 @@ Formally known as Daksh, my friends call me Ducky. I am 15 years old tech enthus
 
 ## Languages 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDucky&layout=compact&theme=nord&langs_count=12" alt="Most used Languages" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDucky&layout=compact&theme=nord&langs_count=6&hide=html,css,markdown" alt="Most used Languages" align="left">
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
