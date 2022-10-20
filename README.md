@@ -35,7 +35,7 @@ Formally known as Daksh, my friends call me Ducky. I am 15 years old tech enthus
 
 ## Currently working on:
 
-<img src="nothing">
+<img src="https://github.com/TheDucky/slate-conky-theme">
 
 
 ## My links 
