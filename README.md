@@ -35,7 +35,7 @@ Formally known as Daksh, my friends call me Ducky. I am 15 years old tech enthus
 
 ## Currently working on:
 
-[![working on](https://github-readme-stats.vercel.app/api/pin/?username=TheDucky&repo=slate-conky-theme)](https://github.com/TheDucky/slate-conky-theme)
+[![working on](https://github-readme-stats.vercel.app/api/pin/?username=TheDucky&repo=slate-conky-theme&theme=nord)](https://github.com/TheDucky/slate-conky-theme)
 
 
 ## My links 
